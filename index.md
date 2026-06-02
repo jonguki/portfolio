@@ -82,6 +82,8 @@
 <h2 style="color: #3498db;">8. Career Goal / Future Plan</h2>
 
 <ul>
-  <li>AI Developer</li>
-  <li>Back-end Developer (AI 연동)</li>
+  <li><b>AI 서비스 개발자 (AI Service Developer)</b></li>
+  <li><b>AI 연동 백엔드 개발자 (Back-end Developer with AI Integration)</b></li>
+  <li>Scikit-learn을 활용한 머신러닝 기초 모델링 완수 및 실 데이터 적용</li>
+  <li>AI 모델을 실제 웹 서비스에 연결하기 위한 Python 백엔드 기초 학습</li>
 </ul>
