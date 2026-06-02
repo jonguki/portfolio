@@ -71,10 +71,8 @@
 <h2 style="color: #3498db;">7. Contact</h2>
 
 <ul>
-  <li><b>Email:</b> </li>
+  <li><b>Email:jongugi90@gmail.com</b> </li>
   <li><b>GitHub:</b> <a href="https://github.com/jonguki">https://github.com/jonguki</a></li>
-  <li><b>LinkedIn:</b> </li>
-  <li><b>Blog / Notion:</b> </li>
 </ul>
 
 <hr>
