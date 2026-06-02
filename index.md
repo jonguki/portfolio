@@ -63,7 +63,7 @@
 
 <p>Note: 본 이력서 PDF 파일에는 민감한 개인정보가 일체 포함되어 있지 않습니다.</p>
 <ul>
-  <li><a href="./resume.pdf">Download My Resume</a></li>
+  <li><a href="./resume.md">Download My Resume</a></li>
 </ul>
 
 <hr>
