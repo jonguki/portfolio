@@ -1,6 +1,6 @@
-<div align="center">
-  <h1><strong>LeeJongUk Portfolio</strong></h1>
-  <p>Artificial Intelligence Engineering Student</p>
+<div align="center" style="background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); padding: 50px 20px; border-radius: 15px; color: white; margin-bottom: 30px;">
+  <h1 style="color: white; margin: 0;"><strong>LeeJongUk Portfolio</strong></h1>
+  <p style="margin-top: 10px; font-size: 1.2em;">Artificial Intelligence Engineering Student</p>
 </div>
 
 <br><br>
